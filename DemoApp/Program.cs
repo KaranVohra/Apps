@@ -11,6 +11,7 @@ namespace DemoApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is going to be hosted in GitHub");
+            Console.WriteLine("This has been updated");
             Console.ReadLine();                
         }
     }
